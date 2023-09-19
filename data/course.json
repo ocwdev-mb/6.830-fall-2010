@@ -1,0 +1,62 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Graduate",
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ],
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ]
+  ],
+  "legacy_uid": "31ef61c6-57dd-5493-e295-73050ee23a19",
+  "instructors": {
+    "content": [
+      "04438590-295f-6d6b-e1fc-c0ed7750b8fa",
+      "565485f1-23b5-1c62-986f-627da41c64c0",
+      "12469cbf-7847-8994-52b9-35201363c57b",
+      "9bc243bc-07f9-0939-0153-1680011f71b9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f6a4a858-0e9f-6297-29e1-4e358a682bf4",
+    "website": "6-830-database-systems-fall-2010"
+  },
+  "course_title": "Database Systems",
+  "course_description": "This course relies on primary readings from the database community to introduce graduate students to the foundations of database systems, focusing on basics such as the relational algebra and data model, schema normalization, query optimization, and transactions. It is designed for students who have taken [6.033](/courses/6-033-computer-system-engineering-spring-2018/) (or equivalent); no prior database experience is assumed, though students who have taken an undergraduate course in databases are encouraged to attend.",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "6.814",
+  "primary_course_number": "6.830",
+  "course_image_thumbnail": {
+    "content": "6ba96240-843a-a7b3-a5c6-8724324b4ae5",
+    "website": "6-830-database-systems-fall-2010"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Programming Assignments"
+  ],
+  "site_uid": "e3388548-4275-4fd8-a431-eaacc659c3ae",
+  "site_short_id": "6.830-fall-2010",
+  "title": "Course Metadata"
+}
