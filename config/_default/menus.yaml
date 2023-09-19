@@ -1,0 +1,125 @@
+leftnav:
+- identifier: 79323993-8576-55da-bb37-c0853c17337c
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: d4cbf926-7449-e515-309f-93c4d4a15ee5
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 30
+- identifier: 835dd16a-4689-fe1d-a4a1-c2d1d6b4304c
+  name: The Relational Model
+  pageRef: /pages/readings/lec2
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 40
+- identifier: c8f9eae5-d3e9-34f1-f7c5-c3528a164316
+  name: Schema Design
+  pageRef: /pages/readings/lec3
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 50
+- identifier: e72d69e6-24a8-6acb-9aec-ddde59f04f4f
+  name: Introduction to Database Internals
+  pageRef: /pages/readings/lec4
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 60
+- identifier: 7e452213-9ff8-c4f4-ce12-ca666628b3d1
+  name: Database Operators and Query Processing
+  pageRef: /pages/readings/lec5
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 70
+- identifier: f59bf6ba-c7ab-4607-ed75-486674863cd9
+  name: Indexing and Access Methods
+  pageRef: /pages/readings/lec6
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 80
+- identifier: e063ec5a-9aa5-b2e8-6630-ba1fa4656695
+  name: Buffer Pool Design and Memory Management
+  pageRef: /pages/readings/lec7
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 90
+- identifier: 4ddb0f0e-cd21-86f8-a9fb-8caaf7006fd9
+  name: Join Algorithms
+  pageRef: /pages/readings/lec8
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 100
+- identifier: 75e1c741-b298-9e11-b22a-dd3535db6620
+  name: Query Optimization
+  pageRef: /pages/readings/lec9
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 110
+- identifier: 0984e5c9-e745-a1ff-d69b-5ad93c274c59
+  name: Transactions and Locking
+  pageRef: /pages/readings/lec10
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 120
+- identifier: ff78b687-f1a3-e5e0-58c2-ac171ff64a6d
+  name: Optimistic Concurrency Control
+  pageRef: /pages/readings/lec11
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 130
+- identifier: a1d3676a-9523-b53c-f5fa-c95f19df6551
+  name: Recovery
+  pageRef: /pages/readings/lec12
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 140
+- identifier: b40315db-3f5f-7f55-b64f-d70771dc314a
+  name: Recovery (cont.)
+  pageRef: /pages/readings/lec13
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 150
+- identifier: 08e7d76a-03d5-dddb-0d61-b0f5d06eecc5
+  name: Degrees of Consistency
+  pageRef: /pages/readings/lec14
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 160
+- identifier: 83255771-ee33-7769-c6f3-1a15aa26beb9
+  name: C-Store
+  pageRef: /pages/readings/lec15
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 170
+- identifier: 66567cf1-bcf6-6bb7-3302-5efcf677f715
+  name: Distributed Transactions
+  pageRef: /pages/readings/lec16
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 180
+- identifier: 9dfb284b-d00a-502f-99f9-a78bd61390ea
+  name: Parallel Databases
+  pageRef: /pages/readings/lec17
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 190
+- identifier: 48786fd1-aecc-1398-c96b-b45fc2350444
+  name: Scientific Databases
+  pageRef: /pages/readings/lec18
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 200
+- identifier: 6868c6cc-27a2-1403-813c-fceeed1d1ca8
+  name: NOSQL
+  pageRef: /pages/readings/lec19
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 210
+- identifier: cb945a4c-bc66-de19-5f56-67d51ac78666
+  name: ORM, DryadLINQ
+  pageRef: /pages/readings/lec20
+  parent: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
+  weight: 220
+- identifier: 887b347f-358a-dc23-56e4-a7411b44c7a4
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 230
+- identifier: e3e3793c-e7ed-9d0a-c7b1-c5e18c2d5918
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 240
+- identifier: 1e713d66-f674-b37e-57f8-a4dfe5539771
+  name: Final Project
+  pageRef: /pages/assignments/project
+  parent: e3e3793c-e7ed-9d0a-c7b1-c5e18c2d5918
+  weight: 250
+- identifier: 4d3c5294-e9f0-032d-2060-5ec3fce88e9c
+  name: Exams
+  pageRef: /pages/exams
+  weight: 260
